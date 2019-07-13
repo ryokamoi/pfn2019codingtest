@@ -1,0 +1,201 @@
+epoch:  1	valid accuracy:0.46000	valid loss:0.69850	train accuracy:0.50733	train loss:0.67692	
+epoch:  2	valid accuracy:0.45800	valid loss:0.70063	train accuracy:0.50800	train loss:0.67599	
+epoch:  3	valid accuracy:0.46200	valid loss:0.69285	train accuracy:0.51533	train loss:0.67444	
+epoch:  4	valid accuracy:0.46200	valid loss:0.69754	train accuracy:0.51533	train loss:0.67319	
+epoch:  5	valid accuracy:0.46600	valid loss:0.69452	train accuracy:0.51867	train loss:0.67167	
+epoch:  6	valid accuracy:0.49200	valid loss:0.69125	train accuracy:0.52933	train loss:0.67039	
+epoch:  7	valid accuracy:0.51000	valid loss:0.68786	train accuracy:0.54600	train loss:0.66954	
+epoch:  8	valid accuracy:0.49200	valid loss:0.69548	train accuracy:0.52933	train loss:0.66882	
+epoch:  9	valid accuracy:0.52800	valid loss:0.68711	train accuracy:0.56133	train loss:0.66694	
+epoch: 10	valid accuracy:0.51000	valid loss:0.69137	train accuracy:0.54600	train loss:0.66610	
+epoch: 11	valid accuracy:0.51000	valid loss:0.69258	train accuracy:0.54600	train loss:0.66551	
+epoch: 12	valid accuracy:0.54000	valid loss:0.68728	train accuracy:0.57000	train loss:0.66364	
+epoch: 13	valid accuracy:0.54000	valid loss:0.68905	train accuracy:0.57000	train loss:0.66303	
+epoch: 14	valid accuracy:0.58200	valid loss:0.67942	train accuracy:0.61133	train loss:0.66256	
+epoch: 15	valid accuracy:0.55800	valid loss:0.68287	train accuracy:0.59467	train loss:0.66054	
+epoch: 16	valid accuracy:0.55800	valid loss:0.68333	train accuracy:0.59467	train loss:0.65964	
+epoch: 17	valid accuracy:0.58200	valid loss:0.67687	train accuracy:0.63267	train loss:0.65971	
+epoch: 18	valid accuracy:0.58200	valid loss:0.67637	train accuracy:0.63267	train loss:0.65862	
+epoch: 19	valid accuracy:0.58400	valid loss:0.67689	train accuracy:0.62200	train loss:0.65723	
+epoch: 20	valid accuracy:0.58200	valid loss:0.67545	train accuracy:0.63267	train loss:0.65662	
+epoch: 21	valid accuracy:0.56800	valid loss:0.68378	train accuracy:0.60200	train loss:0.65596	
+epoch: 22	valid accuracy:0.58200	valid loss:0.67997	train accuracy:0.61133	train loss:0.65453	
+epoch: 23	valid accuracy:0.58200	valid loss:0.67892	train accuracy:0.61133	train loss:0.65370	
+epoch: 24	valid accuracy:0.56800	valid loss:0.68574	train accuracy:0.60200	train loss:0.65479	
+epoch: 25	valid accuracy:0.58200	valid loss:0.67512	train accuracy:0.63267	train loss:0.65207	
+epoch: 26	valid accuracy:0.59400	valid loss:0.67175	train accuracy:0.65200	train loss:0.65173	
+epoch: 27	valid accuracy:0.58200	valid loss:0.68034	train accuracy:0.61133	train loss:0.65152	
+epoch: 28	valid accuracy:0.58200	valid loss:0.67596	train accuracy:0.63267	train loss:0.65005	
+epoch: 29	valid accuracy:0.59400	valid loss:0.67013	train accuracy:0.65200	train loss:0.64958	
+epoch: 30	valid accuracy:0.59200	valid loss:0.67340	train accuracy:0.64533	train loss:0.64857	
+epoch: 31	valid accuracy:0.59400	valid loss:0.66980	train accuracy:0.65200	train loss:0.64808	
+epoch: 32	valid accuracy:0.59400	valid loss:0.66950	train accuracy:0.65200	train loss:0.64738	
+epoch: 33	valid accuracy:0.60400	valid loss:0.66745	train accuracy:0.65933	train loss:0.64714	
+epoch: 34	valid accuracy:0.58200	valid loss:0.67800	train accuracy:0.63267	train loss:0.64739	
+epoch: 35	valid accuracy:0.60400	valid loss:0.66657	train accuracy:0.65933	train loss:0.64590	
+epoch: 36	valid accuracy:0.59400	valid loss:0.67078	train accuracy:0.65200	train loss:0.64493	
+epoch: 37	valid accuracy:0.61000	valid loss:0.66296	train accuracy:0.66600	train loss:0.64668	
+epoch: 38	valid accuracy:0.61000	valid loss:0.66200	train accuracy:0.66600	train loss:0.64693	
+epoch: 39	valid accuracy:0.59400	valid loss:0.66987	train accuracy:0.65200	train loss:0.64333	
+epoch: 40	valid accuracy:0.61400	valid loss:0.66077	train accuracy:0.66267	train loss:0.64669	
+epoch: 41	valid accuracy:0.61400	valid loss:0.66073	train accuracy:0.66267	train loss:0.64529	
+epoch: 42	valid accuracy:0.61000	valid loss:0.66128	train accuracy:0.66600	train loss:0.64350	
+epoch: 43	valid accuracy:0.60400	valid loss:0.66401	train accuracy:0.65600	train loss:0.64146	
+epoch: 44	valid accuracy:0.59200	valid loss:0.67331	train accuracy:0.64533	train loss:0.64204	
+epoch: 45	valid accuracy:0.60400	valid loss:0.66200	train accuracy:0.65600	train loss:0.64090	
+epoch: 46	valid accuracy:0.59400	valid loss:0.67276	train accuracy:0.65200	train loss:0.64119	
+epoch: 47	valid accuracy:0.60800	valid loss:0.65781	train accuracy:0.66067	train loss:0.64429	
+epoch: 48	valid accuracy:0.61000	valid loss:0.65975	train accuracy:0.66600	train loss:0.64023	
+epoch: 49	valid accuracy:0.60400	valid loss:0.66464	train accuracy:0.65933	train loss:0.63859	
+epoch: 50	valid accuracy:0.60600	valid loss:0.66631	train accuracy:0.65800	train loss:0.63837	
+epoch: 51	valid accuracy:0.61000	valid loss:0.65851	train accuracy:0.66600	train loss:0.63920	
+epoch: 52	valid accuracy:0.60600	valid loss:0.66031	train accuracy:0.65800	train loss:0.63777	
+epoch: 53	valid accuracy:0.60400	valid loss:0.66220	train accuracy:0.65600	train loss:0.63703	
+epoch: 54	valid accuracy:0.60400	valid loss:0.66177	train accuracy:0.65600	train loss:0.63670	
+epoch: 55	valid accuracy:0.61000	valid loss:0.65798	train accuracy:0.66600	train loss:0.63727	
+epoch: 56	valid accuracy:0.60600	valid loss:0.66788	train accuracy:0.65800	train loss:0.63679	
+epoch: 57	valid accuracy:0.60600	valid loss:0.66994	train accuracy:0.65800	train loss:0.63710	
+epoch: 58	valid accuracy:0.60400	valid loss:0.66231	train accuracy:0.65600	train loss:0.63531	
+epoch: 59	valid accuracy:0.60400	valid loss:0.66240	train accuracy:0.65600	train loss:0.63500	
+epoch: 60	valid accuracy:0.61000	valid loss:0.65493	train accuracy:0.65800	train loss:0.63725	
+epoch: 61	valid accuracy:0.59000	valid loss:0.65353	train accuracy:0.65200	train loss:0.64115	
+epoch: 62	valid accuracy:0.61000	valid loss:0.65635	train accuracy:0.66600	train loss:0.63492	
+epoch: 63	valid accuracy:0.61000	valid loss:0.65698	train accuracy:0.66600	train loss:0.63423	
+epoch: 64	valid accuracy:0.60400	valid loss:0.66295	train accuracy:0.65600	train loss:0.63365	
+epoch: 65	valid accuracy:0.60400	valid loss:0.66333	train accuracy:0.65933	train loss:0.63345	
+epoch: 66	valid accuracy:0.60400	valid loss:0.66442	train accuracy:0.65933	train loss:0.63343	
+epoch: 67	valid accuracy:0.60600	valid loss:0.67106	train accuracy:0.65800	train loss:0.63524	
+epoch: 68	valid accuracy:0.60800	valid loss:0.65303	train accuracy:0.66067	train loss:0.63521	
+epoch: 69	valid accuracy:0.61000	valid loss:0.65327	train accuracy:0.65800	train loss:0.63434	
+epoch: 70	valid accuracy:0.60400	valid loss:0.65192	train accuracy:0.65600	train loss:0.63655	
+epoch: 71	valid accuracy:0.60400	valid loss:0.66252	train accuracy:0.65600	train loss:0.63194	
+epoch: 72	valid accuracy:0.60400	valid loss:0.66167	train accuracy:0.65600	train loss:0.63160	
+epoch: 73	valid accuracy:0.60400	valid loss:0.65130	train accuracy:0.65600	train loss:0.63623	
+epoch: 74	valid accuracy:0.61000	valid loss:0.65524	train accuracy:0.66600	train loss:0.63127	
+epoch: 75	valid accuracy:0.59000	valid loss:0.65091	train accuracy:0.65200	train loss:0.63622	
+epoch: 76	valid accuracy:0.60400	valid loss:0.66883	train accuracy:0.65933	train loss:0.63282	
+epoch: 77	valid accuracy:0.61400	valid loss:0.65368	train accuracy:0.66267	train loss:0.63106	
+epoch: 78	valid accuracy:0.61000	valid loss:0.65706	train accuracy:0.66600	train loss:0.63002	
+epoch: 79	valid accuracy:0.61400	valid loss:0.65455	train accuracy:0.66267	train loss:0.63018	
+epoch: 80	valid accuracy:0.61000	valid loss:0.65558	train accuracy:0.66600	train loss:0.62973	
+epoch: 81	valid accuracy:0.61000	valid loss:0.65537	train accuracy:0.66600	train loss:0.62954	
+epoch: 82	valid accuracy:0.59400	valid loss:0.67847	train accuracy:0.65200	train loss:0.63609	
+epoch: 83	valid accuracy:0.61000	valid loss:0.65199	train accuracy:0.65800	train loss:0.63040	
+epoch: 84	valid accuracy:0.59000	valid loss:0.64958	train accuracy:0.65200	train loss:0.63482	
+epoch: 85	valid accuracy:0.60800	valid loss:0.65068	train accuracy:0.66067	train loss:0.63112	
+epoch: 86	valid accuracy:0.61000	valid loss:0.65592	train accuracy:0.66600	train loss:0.62850	
+epoch: 87	valid accuracy:0.60400	valid loss:0.66079	train accuracy:0.65600	train loss:0.62877	
+epoch: 88	valid accuracy:0.60800	valid loss:0.65014	train accuracy:0.66067	train loss:0.63090	
+epoch: 89	valid accuracy:0.60800	valid loss:0.65046	train accuracy:0.66067	train loss:0.63017	
+epoch: 90	valid accuracy:0.60400	valid loss:0.66302	train accuracy:0.65600	train loss:0.62890	
+epoch: 91	valid accuracy:0.61400	valid loss:0.65418	train accuracy:0.66267	train loss:0.62781	
+epoch: 92	valid accuracy:0.61000	valid loss:0.65079	train accuracy:0.65800	train loss:0.62906	
+epoch: 93	valid accuracy:0.61400	valid loss:0.65402	train accuracy:0.66267	train loss:0.62750	
+epoch: 94	valid accuracy:0.60600	valid loss:0.65755	train accuracy:0.65800	train loss:0.62729	
+epoch: 95	valid accuracy:0.60600	valid loss:0.65840	train accuracy:0.65800	train loss:0.62726	
+epoch: 96	valid accuracy:0.61000	valid loss:0.65429	train accuracy:0.66600	train loss:0.62699	
+epoch: 97	valid accuracy:0.60400	valid loss:0.66313	train accuracy:0.65600	train loss:0.62807	
+epoch: 98	valid accuracy:0.61000	valid loss:0.65658	train accuracy:0.66600	train loss:0.62668	
+epoch: 99	valid accuracy:0.60600	valid loss:0.65950	train accuracy:0.65800	train loss:0.62696	
+epoch:100	valid accuracy:0.60400	valid loss:0.66266	train accuracy:0.65600	train loss:0.62762	
+epoch:101	valid accuracy:0.61000	valid loss:0.65734	train accuracy:0.66600	train loss:0.62639	
+epoch:102	valid accuracy:0.60600	valid loss:0.65782	train accuracy:0.65800	train loss:0.62634	
+epoch:103	valid accuracy:0.61400	valid loss:0.65273	train accuracy:0.66267	train loss:0.62626	
+epoch:104	valid accuracy:0.61000	valid loss:0.65119	train accuracy:0.65800	train loss:0.62662	
+epoch:105	valid accuracy:0.60400	valid loss:0.66485	train accuracy:0.65600	train loss:0.62781	
+epoch:106	valid accuracy:0.60400	valid loss:0.66635	train accuracy:0.65600	train loss:0.62824	
+epoch:107	valid accuracy:0.60800	valid loss:0.64908	train accuracy:0.66067	train loss:0.62767	
+epoch:108	valid accuracy:0.60600	valid loss:0.65989	train accuracy:0.65800	train loss:0.62611	
+epoch:109	valid accuracy:0.60600	valid loss:0.66123	train accuracy:0.65800	train loss:0.62635	
+epoch:110	valid accuracy:0.60600	valid loss:0.65795	train accuracy:0.65800	train loss:0.62555	
+epoch:111	valid accuracy:0.60600	valid loss:0.66019	train accuracy:0.65800	train loss:0.62591	
+epoch:112	valid accuracy:0.60400	valid loss:0.64824	train accuracy:0.65600	train loss:0.62790	
+epoch:113	valid accuracy:0.61000	valid loss:0.65018	train accuracy:0.65800	train loss:0.62590	
+epoch:114	valid accuracy:0.61000	valid loss:0.65800	train accuracy:0.66600	train loss:0.62519	
+epoch:115	valid accuracy:0.60600	valid loss:0.66029	train accuracy:0.65800	train loss:0.62559	
+epoch:116	valid accuracy:0.61400	valid loss:0.65243	train accuracy:0.66267	train loss:0.62484	
+epoch:117	valid accuracy:0.61000	valid loss:0.65048	train accuracy:0.65800	train loss:0.62530	
+epoch:118	valid accuracy:0.61000	valid loss:0.65106	train accuracy:0.65800	train loss:0.62497	
+epoch:119	valid accuracy:0.61000	valid loss:0.65155	train accuracy:0.65800	train loss:0.62473	
+epoch:120	valid accuracy:0.60200	valid loss:0.64834	train accuracy:0.62667	train loss:0.64013	
+epoch:121	valid accuracy:0.61000	valid loss:0.65472	train accuracy:0.66600	train loss:0.62427	
+epoch:122	valid accuracy:0.61400	valid loss:0.65376	train accuracy:0.66267	train loss:0.62418	
+epoch:123	valid accuracy:0.61000	valid loss:0.65531	train accuracy:0.66600	train loss:0.62413	
+epoch:124	valid accuracy:0.61000	valid loss:0.65867	train accuracy:0.66600	train loss:0.62455	
+epoch:125	valid accuracy:0.60800	valid loss:0.64914	train accuracy:0.66067	train loss:0.62522	
+epoch:126	valid accuracy:0.60800	valid loss:0.64807	train accuracy:0.66067	train loss:0.62612	
+epoch:127	valid accuracy:0.61000	valid loss:0.65120	train accuracy:0.65800	train loss:0.62413	
+epoch:128	valid accuracy:0.61000	valid loss:0.65036	train accuracy:0.65800	train loss:0.62433	
+epoch:129	valid accuracy:0.60800	valid loss:0.64940	train accuracy:0.66067	train loss:0.62470	
+epoch:130	valid accuracy:0.61400	valid loss:0.65491	train accuracy:0.66267	train loss:0.62363	
+epoch:131	valid accuracy:0.60800	valid loss:0.64832	train accuracy:0.66067	train loss:0.62535	
+epoch:132	valid accuracy:0.61000	valid loss:0.65561	train accuracy:0.66600	train loss:0.62356	
+epoch:133	valid accuracy:0.59800	valid loss:0.64641	train accuracy:0.63667	train loss:0.63225	
+epoch:134	valid accuracy:0.60600	valid loss:0.65987	train accuracy:0.65800	train loss:0.62421	
+epoch:135	valid accuracy:0.61400	valid loss:0.65298	train accuracy:0.66267	train loss:0.62332	
+epoch:136	valid accuracy:0.61000	valid loss:0.65809	train accuracy:0.66600	train loss:0.62370	
+epoch:137	valid accuracy:0.61000	valid loss:0.64960	train accuracy:0.65800	train loss:0.62400	
+epoch:138	valid accuracy:0.61000	valid loss:0.65951	train accuracy:0.66600	train loss:0.62391	
+epoch:139	valid accuracy:0.60400	valid loss:0.66660	train accuracy:0.65600	train loss:0.62614	
+epoch:140	valid accuracy:0.60600	valid loss:0.66134	train accuracy:0.65800	train loss:0.62430	
+epoch:141	valid accuracy:0.61000	valid loss:0.65011	train accuracy:0.65800	train loss:0.62353	
+epoch:142	valid accuracy:0.60600	valid loss:0.65992	train accuracy:0.65800	train loss:0.62381	
+epoch:143	valid accuracy:0.60400	valid loss:0.67706	train accuracy:0.65933	train loss:0.63063	
+epoch:144	valid accuracy:0.61000	valid loss:0.65650	train accuracy:0.66600	train loss:0.62302	
+epoch:145	valid accuracy:0.60800	valid loss:0.64837	train accuracy:0.66067	train loss:0.62427	
+epoch:146	valid accuracy:0.60400	valid loss:0.66955	train accuracy:0.65600	train loss:0.62702	
+epoch:147	valid accuracy:0.61000	valid loss:0.65662	train accuracy:0.66600	train loss:0.62290	
+epoch:148	valid accuracy:0.60600	valid loss:0.66316	train accuracy:0.65800	train loss:0.62450	
+epoch:149	valid accuracy:0.61000	valid loss:0.65068	train accuracy:0.65800	train loss:0.62291	
+epoch:150	valid accuracy:0.61000	valid loss:0.65009	train accuracy:0.65800	train loss:0.62304	
+epoch:151	valid accuracy:0.60600	valid loss:0.69174	train accuracy:0.65800	train loss:0.63825	
+epoch:152	valid accuracy:0.60400	valid loss:0.67281	train accuracy:0.65600	train loss:0.62821	
+epoch:153	valid accuracy:0.60400	valid loss:0.64673	train accuracy:0.65600	train loss:0.62589	
+epoch:154	valid accuracy:0.60800	valid loss:0.64919	train accuracy:0.66067	train loss:0.62323	
+epoch:155	valid accuracy:0.61000	valid loss:0.65849	train accuracy:0.66600	train loss:0.62291	
+epoch:156	valid accuracy:0.61400	valid loss:0.65465	train accuracy:0.66267	train loss:0.62230	
+epoch:157	valid accuracy:0.60400	valid loss:0.64781	train accuracy:0.65600	train loss:0.62410	
+epoch:158	valid accuracy:0.59000	valid loss:0.64638	train accuracy:0.65200	train loss:0.62644	
+epoch:159	valid accuracy:0.61000	valid loss:0.65207	train accuracy:0.65800	train loss:0.62221	
+epoch:160	valid accuracy:0.61000	valid loss:0.65213	train accuracy:0.65800	train loss:0.62217	
+epoch:161	valid accuracy:0.60400	valid loss:0.67069	train accuracy:0.65600	train loss:0.62693	
+epoch:162	valid accuracy:0.60400	valid loss:0.64735	train accuracy:0.65600	train loss:0.62440	
+epoch:163	valid accuracy:0.59400	valid loss:0.64592	train accuracy:0.64333	train loss:0.62844	
+epoch:164	valid accuracy:0.61000	valid loss:0.65048	train accuracy:0.65800	train loss:0.62234	
+epoch:165	valid accuracy:0.61000	valid loss:0.65963	train accuracy:0.66600	train loss:0.62284	
+epoch:166	valid accuracy:0.61000	valid loss:0.65208	train accuracy:0.65800	train loss:0.62197	
+epoch:167	valid accuracy:0.60400	valid loss:0.64699	train accuracy:0.65600	train loss:0.62470	
+epoch:168	valid accuracy:0.61400	valid loss:0.65404	train accuracy:0.66267	train loss:0.62185	
+epoch:169	valid accuracy:0.61000	valid loss:0.65747	train accuracy:0.66600	train loss:0.62224	
+epoch:170	valid accuracy:0.60800	valid loss:0.64978	train accuracy:0.66067	train loss:0.62237	
+epoch:171	valid accuracy:0.61000	valid loss:0.65773	train accuracy:0.66600	train loss:0.62223	
+epoch:172	valid accuracy:0.60400	valid loss:0.64795	train accuracy:0.65600	train loss:0.62340	
+epoch:173	valid accuracy:0.61000	valid loss:0.66132	train accuracy:0.66600	train loss:0.62306	
+epoch:174	valid accuracy:0.60400	valid loss:0.67092	train accuracy:0.65600	train loss:0.62665	
+epoch:175	valid accuracy:0.60800	valid loss:0.64888	train accuracy:0.66067	train loss:0.62265	
+epoch:176	valid accuracy:0.61400	valid loss:0.65423	train accuracy:0.66267	train loss:0.62164	
+epoch:177	valid accuracy:0.61000	valid loss:0.65846	train accuracy:0.66600	train loss:0.62222	
+epoch:178	valid accuracy:0.60400	valid loss:0.67344	train accuracy:0.65600	train loss:0.62768	
+epoch:179	valid accuracy:0.60600	valid loss:0.66640	train accuracy:0.65800	train loss:0.62464	
+epoch:180	valid accuracy:0.60800	valid loss:0.64959	train accuracy:0.66067	train loss:0.62217	
+epoch:181	valid accuracy:0.61400	valid loss:0.65570	train accuracy:0.66267	train loss:0.62164	
+epoch:182	valid accuracy:0.61000	valid loss:0.65856	train accuracy:0.66600	train loss:0.62211	
+epoch:183	valid accuracy:0.60800	valid loss:0.64956	train accuracy:0.66067	train loss:0.62211	
+epoch:184	valid accuracy:0.61000	valid loss:0.66109	train accuracy:0.66600	train loss:0.62271	
+epoch:185	valid accuracy:0.60800	valid loss:0.65008	train accuracy:0.66067	train loss:0.62187	
+epoch:186	valid accuracy:0.61400	valid loss:0.65481	train accuracy:0.66267	train loss:0.62143	
+epoch:187	valid accuracy:0.59000	valid loss:0.64613	train accuracy:0.65200	train loss:0.62609	
+epoch:188	valid accuracy:0.61000	valid loss:0.65160	train accuracy:0.65800	train loss:0.62145	
+epoch:189	valid accuracy:0.60400	valid loss:0.67580	train accuracy:0.65600	train loss:0.62853	
+epoch:190	valid accuracy:0.61400	valid loss:0.65460	train accuracy:0.66267	train loss:0.62133	
+epoch:191	valid accuracy:0.61400	valid loss:0.65435	train accuracy:0.66267	train loss:0.62129	
+epoch:192	valid accuracy:0.61400	valid loss:0.65526	train accuracy:0.66267	train loss:0.62135	
+epoch:193	valid accuracy:0.61000	valid loss:0.65143	train accuracy:0.65800	train loss:0.62138	
+epoch:194	valid accuracy:0.60600	valid loss:0.66302	train accuracy:0.65800	train loss:0.62310	
+epoch:195	valid accuracy:0.61000	valid loss:0.65128	train accuracy:0.65800	train loss:0.62137	
+epoch:196	valid accuracy:0.60400	valid loss:0.64743	train accuracy:0.65600	train loss:0.62337	
+epoch:197	valid accuracy:0.61400	valid loss:0.65369	train accuracy:0.66267	train loss:0.62116	
+epoch:198	valid accuracy:0.60800	valid loss:0.64914	train accuracy:0.66067	train loss:0.62201	
+epoch:199	valid accuracy:0.60800	valid loss:0.64915	train accuracy:0.66067	train loss:0.62199	
+epoch:200	valid accuracy:0.60600	valid loss:0.66476	train accuracy:0.65800	train loss:0.62357	
+best result:	epoch:163	valid accuracy:0.59400	valid loss:0.64592	train accuracy:0.64333	train loss:0.62844	

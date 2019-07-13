@@ -1,0 +1,12 @@
+README-en.pdf
+README-ja.pdf
+datasets
+docs
+
+*.pyc
+*__pycache__
+*.DS_Store
+*.python-version
+*Icon*
+
+*.idea
