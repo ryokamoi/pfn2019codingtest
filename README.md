@@ -3,6 +3,8 @@
 Preferred Networks Intern Screening 2019 Coding Task for Machine Learning / Mathematics Fields by Ryo Kamoi (鴨井 遼).
 (I didn't get hired)
 
+残念ながら不採用となりましたが、PFN2019年夏期インターンのコーディング課題に提出したコードを公開します。
+
 ## Environment
  * Python 3.6.2
  * Required libraries are listed in "pip.freeze". All libraries can be installed by the following script.
